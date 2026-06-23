@@ -4,9 +4,10 @@
 
 ### Master your typing skills in **English**, **پښتو (Pashto)**, and **دری (Dari)**
 
+[![Release](https://img.shields.io/github/v/release/ShahidKhanDev/afghan-typing-master?logo=github)](https://github.com/ShahidKhanDev/afghan-typing-master/releases)
+[![Downloads](https://img.shields.io/github/downloads/ShahidKhanDev/afghan-typing-master/total?logo=github)](https://github.com/ShahidKhanDev/afghan-typing-master/releases)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white)](#-download)
 [![License](https://img.shields.io/badge/License-Proprietary%20Freeware-green.svg)](LICENSE.txt)
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-181717?logo=github&logoColor=white)](https://github.com/ShahidKhanDev/afghan-typing-master/releases/latest)
 [![Website](https://img.shields.io/badge/Website-afghantypingmaster.com-blue)](https://afghantypingmaster.com)
 
 A modern desktop typing application designed to help users improve their typing speed, accuracy, and confidence in **English**, **Pashto**, and **Dari**.
@@ -117,7 +118,7 @@ More games will be added in future releases.
 ## 🌍 Multi-language Support
 
 - English (QWERTY)
-- Pastho
+- Pashto
 - Dari
 - RTL text support
 - Afghan keyboard layouts
