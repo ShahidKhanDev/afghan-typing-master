@@ -1,0 +1,160 @@
+================================================================================
+                         AFGHAN TYPING MASTER
+                     PROPRIETARY FREEWARE LICENSE
+================================================================================
+
+Copyright (c) 2025 Shahid Ullah Safi.
+All rights reserved.
+
+Afghan Typing Master is proprietary freeware. It is free to download and use,
+but it is not open source.
+
+This license applies to the Afghan Typing Master desktop application, installer,
+documentation, branding, assets, and related release files distributed by
+Shahid Ullah Safi.
+
+--------------------------------------------------------------------------------
+1. PERMISSION TO USE
+--------------------------------------------------------------------------------
+
+You are granted a limited, non-exclusive, non-transferable, revocable license to
+download, install, and use Afghan Typing Master free of charge for personal,
+educational, and non-commercial use.
+
+The application may be used by individuals, students, teachers, schools, training
+centers, and organizations for typing practice and learning purposes, provided
+that the software is used in its original, unmodified form.
+
+--------------------------------------------------------------------------------
+2. REDISTRIBUTION
+--------------------------------------------------------------------------------
+
+You may redistribute the original, unmodified Afghan Typing Master installer,
+provided that:
+
+1. The installer is not modified in any way.
+2. This license notice remains included with the software.
+3. The software is not sold, rented, leased, sublicensed, or commercially
+   exploited.
+4. The software is not bundled with malware, advertisements, tracking software,
+   or any unauthorized third-party software.
+5. The name "Afghan Typing Master" and the developer attribution are not removed,
+   altered, or misrepresented.
+
+Any redistribution must clearly identify Shahid Ullah Safi as the original
+developer.
+
+--------------------------------------------------------------------------------
+3. RESTRICTIONS
+--------------------------------------------------------------------------------
+
+You may not:
+
+1. Modify, adapt, translate, alter, or create derivative works of the software.
+2. Reverse engineer, decompile, disassemble, or attempt to extract the source
+   code of the software, except where such restriction is prohibited by law.
+3. Remove, alter, or obscure copyright notices, license notices, trademarks,
+   logos, or developer attribution.
+4. Sell, rent, lease, sublicense, host, or commercially distribute the software.
+5. Repackage the software under another name or brand.
+6. Publish modified versions of the software.
+7. Use the software or its assets in a competing product without written
+   permission.
+8. Claim ownership of the software or represent yourself as the original author.
+
+--------------------------------------------------------------------------------
+4. SOURCE CODE
+--------------------------------------------------------------------------------
+
+The source code of Afghan Typing Master is private and is not licensed for public
+use, copying, modification, redistribution, or publication.
+
+No rights are granted to the source code unless explicitly provided in a separate
+written agreement signed by the copyright holder.
+
+--------------------------------------------------------------------------------
+5. OWNERSHIP
+--------------------------------------------------------------------------------
+
+Afghan Typing Master, including its design, code, user interface, name, branding,
+graphics, documentation, installer, and related materials, is owned by
+Shahid Ullah Safi.
+
+All rights not expressly granted in this license are reserved by the copyright
+holder.
+
+--------------------------------------------------------------------------------
+6. THIRD-PARTY COMPONENTS
+--------------------------------------------------------------------------------
+
+Afghan Typing Master may include third-party libraries, frameworks, fonts, or
+components. Such third-party components remain subject to their own respective
+licenses.
+
+This license does not replace or modify the license terms of any third-party
+components included with or used by the application.
+
+--------------------------------------------------------------------------------
+7. UPDATES
+--------------------------------------------------------------------------------
+
+The software may check for updates or receive updated versions from official
+release channels.
+
+Updated versions of Afghan Typing Master are also subject to this license unless
+a different license is provided with a future release.
+
+--------------------------------------------------------------------------------
+8. NO WARRANTY
+--------------------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER DISCLAIMS
+ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AND
+AVAILABILITY.
+
+The software may contain bugs or limitations. Use it at your own risk.
+
+--------------------------------------------------------------------------------
+9. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SHAHID ULLAH SAFI SHALL NOT
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY,
+OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THE USE OF, INABILITY TO USE,
+INSTALLATION OF, OR DISTRIBUTION OF THE SOFTWARE.
+
+This includes, but is not limited to, loss of data, system failure, business
+interruption, loss of profits, or any other damages, even if the copyright holder
+has been advised of the possibility of such damages.
+
+--------------------------------------------------------------------------------
+10. TERMINATION
+--------------------------------------------------------------------------------
+
+This license is effective until terminated.
+
+Your rights under this license will automatically terminate if you violate any of
+its terms. Upon termination, you must stop using and distributing the software
+and delete all copies in your possession.
+
+--------------------------------------------------------------------------------
+11. CONTACT
+--------------------------------------------------------------------------------
+
+For permission requests, support, or licensing questions, contact:
+
+Shahid Ullah Safi
+Website: https://shahiddev.com
+GitHub: https://github.com/ShahidKhanDev
+Email: support@afghantypingmaster.com
+
+--------------------------------------------------------------------------------
+
+Afghan Typing Master
+Built with love for Afghanistan.
+
+================================================================================
